@@ -19,3 +19,12 @@
 | 13 | Ich habe abschliessend den vollständigen Befehl `./gradlew clean test jacocoTestReport` ausgeführt, um die Tests sauber neu zu starten und die JaCoCo-Reports zu generieren. Der Build war erfolgreich – alle Tests wurden ausgeführt und der Report aktualisiert. | ![CI-13.png](images/CI-13.png) |
 | 14 | Nachdem ich zusätzliche Tests ergänzt und das Projekt neu gebaut hatte, habe ich den generierten JaCoCo-Report erneut geöffnet. | ![CI-14.png](images/CI-14.png) |
 | 15 | Zum Schluss habe ich alle Änderungen mit dem Befehl `git push origin main` auf mein GitHub-Repository übertragen. | ![CI-15.png](images/CI-15.png) |
+
+
+## Fazit
+In diesem Lernjournal habe ich gelernt, wie man ein Gradle-Projekt mit JUnit-Tests und JaCoCo-Coverage konfiguriert. Ich konnte Unit-Tests schreiben, die Codeabdeckung messen und den Report als HTML-Datei visualisieren. Ich habe ein gutes Verständnis für automatisiertes Testen und Codequalität im DevOps-Kontext aufgebaut – eine wichtige Grundlage für Jenkins und CI/CD.
+
+Herausforderungen waren:
+- Zusammenspiel von `test` und `jacocoTestReport`
+- Testabdeckung aller Codepfade sicherstellen
+- Nur relevante Dateien ins Git-Repo pushen
