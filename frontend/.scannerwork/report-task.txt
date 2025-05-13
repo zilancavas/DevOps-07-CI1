@@ -1,0 +1,6 @@
+projectKey=DevOps-06-Frontend
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=DevOps-06-Frontend
+ceTaskId=d42f8894-506f-4b5e-afbc-e9540fc0a8c6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d42f8894-506f-4b5e-afbc-e9540fc0a8c6

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-05-13T10:47:41" hostname="MacBook-Pro-von-Zilan-293.local" time="0.008">
+  <properties/>
+  <testcase name="fizzBuzzConverter1()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.001"/>
+  <testcase name="fizzBuzzConvertor2()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.001"/>
+  <testcase name="fizzBuzzConvertor3()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.0"/>
+  <testcase name="fizzBuzzConvertorMultiplesOfThreeAndSeven()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.001"/>
+  <testcase name="fizzBuzzConvertorMultiplesOfSeven()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.0"/>
+  <testcase name="fizzBuzzConvertorMultiplesOfThree()" classname="ch.zhaw.iwi.devops.fizzbuzz.FizzBuzzConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

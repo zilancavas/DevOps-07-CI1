@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.iwi.devops.demo.ToDoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-13T10:47:41" hostname="MacBook-Pro-von-Zilan-293.local" time="0.0">
+  <properties/>
+  <testcase name="testToDo()" classname="ch.zhaw.iwi.devops.demo.ToDoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
